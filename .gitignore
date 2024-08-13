@@ -1,0 +1,15 @@
+*/data
+*.tsv
+*/log/*
+*.o
+*.pdf
+*.csv
+*.npy
+*.nii
+*/plots
+*/results
+*/plots_*
+log/*
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+bkup/*

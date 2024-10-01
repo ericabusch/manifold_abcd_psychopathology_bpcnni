@@ -8,7 +8,7 @@ import os
 VERBOSE=True
 
 # Set a whole bunch of paths specific to this project & running analyses on milgram cluster
-PROJECT_DIR = '/gpfs/milgram/pi/turk-browne/users/elb77/project_abs'
+PROJECT_DIR = '.'
 FINAL_REPO = f'{PROJECT_DIR}/manifold_abcd_psychopathology_bpcnni'
 FINAL_RESULTS = f'{FINAL_REPO}/results'
 FINAL_PLOTS = f'{FINAL_REPO}/plots'
